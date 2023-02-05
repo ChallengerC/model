@@ -1,0 +1,8 @@
+prefix=/home/chen/qingzhou_models/install
+
+Name: qingzhou_gazebo
+Description: Description of qingzhou_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

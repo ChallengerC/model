@@ -1,0 +1,2 @@
+qingzhou_control:qingzhou_description:qingzhou_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/chen/qingzhou_models/devel -DCMAKE_INSTALL_PREFIX=/home/chen/qingzhou_models/install -G Unix Makefiles
